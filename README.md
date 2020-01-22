@@ -222,6 +222,7 @@ app.use(articlesRouter);
 ## Step 7 - Complete your CRUD Operations
 <hr>
 
-Create Update and Delete APIs in the same application.
+1. Create an API route to read a single article.
+2. Create Update and Delete APIs in the same application.
 
 <hr>
